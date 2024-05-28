@@ -1,17 +1,15 @@
-# AirMeasurer
+# Panicle-AI
 
-Gang Sun<sup>1*</sup>, Jie Zhou<sup>1</sup>, Qiang Zhao<sup>2</sup>, Bin Han<sup>2</sup>, Ji Zhou<sup>1,3*</sup>
+Jie Zhou<sup>1*</sup>, Min Zhang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
-<sup>2</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
+<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany, Cambridge CB3 0LE, UK;
 
-<sup>3</sup>Cambridge Crop Research, National Institute of Agricultural Botany, Cambridge CB3 0LE, UK;
-
-<sup>*</sup>Correspondence for the source code and GUI software: 2018101176@njau.edu.cn; Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
+<sup>*</sup>Correspondence for the source code and cloud software: jiezhou@njau.edu.cn; Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
 ## Install Python, Anaconda and Libraries
-If you wish to run AirMeasurer from source code, you will need to set up Python on your operating system. 
+If you wish to run Panicle-AI from source code, you will need to set up Python on your operating system. 
 
 1. Install Python releases:
    
@@ -43,7 +41,7 @@ If you wish to run AirMeasurer from source code, you will need to set up Python 
 
 3. Install packages:
 
-   • AirMeasurer uses a number of 3rd-party libraries that you may need to add to your conda environment.
+   • Panicle-AI uses a number of 3rd-party libraries that you may need to add to your conda environment.
    These include, but are not limited to:
    
        Laspy=1.7.0
@@ -58,6 +56,5 @@ If you wish to run AirMeasurer from source code, you will need to set up Python 
        Numpy=1.18.1
        Scipy=1.4.1
    
-## Running AirMeasurer GUI
+## Running Panicle-AI cloud software
 
-A Windows executable file (.exe) can be downloaded from the latest release together with a compressed file (AirMeasurer.zip).
