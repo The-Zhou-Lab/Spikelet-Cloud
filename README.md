@@ -1,4 +1,4 @@
-# Panicle-AI
+# Spikelet-Cloud
 
 Jie Zhou<sup>1*</sup>, Min Zhang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
