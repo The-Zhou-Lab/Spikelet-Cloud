@@ -1,4 +1,4 @@
-# Spikelet-Cloud
+# Rice Grain Phenotyping Analysis System
 
 Jie Zhou<sup>1*</sup>, Min Zhang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
@@ -39,22 +39,27 @@ If you wish to run Panicle-AI from source code, you will need to set up Python o
 
    •	We recommend users install the latest Anaconda Python distribution
 
-3. Install packages:
+3. Create a environment for the deep learning to prevent conflicts.
 
-   • Panicle-AI uses a number of 3rd-party libraries that you may need to add to your conda environment.
-   These include, but are not limited to:
-   
-       Laspy=1.7.0
-       Whitebox==1.3.0
-       GDAL=3.2.1
-       Rasterio=1.2.0
-       CSF=1.1.1
-       Scikit-image=0.16.2
-       Opencv-contrib-python==3.4.2.16
-       Matplotlib =3.1.3
-       Pandas=1.0.1
-       Numpy=1.18.1
-       Scipy=1.4.1
-   
+```bash
+# 1) Create and activate environment
+conda create -n rgpas python=3.9 -y
+conda activate rgpas
+
+# 2) Install PyTorch (CUDA or CPU)
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# 3) Common dependencies
+pip install opencv-python scikit-image scipy numpy matplotlib tqdm jupyter
+
+```
+
+Their is a `requirements.txt` file is provided under the code folder, install with:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
 ## Running Panicle-AI cloud software
 
