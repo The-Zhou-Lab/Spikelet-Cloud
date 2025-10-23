@@ -73,7 +73,7 @@ conda activate your_env_name
 cd code/RDG-YOLO
 
 # 3) Download the model of RDG-YOLO
-Please through 'Releases' to get the model for panicle detection
+Please through Releases to get the model for panicle detection
 
 # 4) Start predict
 python detect.py
@@ -89,7 +89,7 @@ conda activate your_env_name
 cd code/EfficientNet-RG
 
 # 3) Download the model of EfficientNet-RG
-Please through 'Releases' to get the model for panicle detection
+Please through Releases to get the model for panicle detection
 
 # 4) Start Jupyter
 jupyter notebook
