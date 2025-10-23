@@ -61,5 +61,14 @@ pip install -r requirements.txt
 ```
 
 ---
-## Running Panicle-AI cloud software
+## Prediction
+
+To run panicle detection with "RGD-YOLO":
+
+```bash
+# 1) Activate environment
+conda activate your_env_name
+
+# 2) Enter AdelaiDet directory
+cd code/yolov10
 
