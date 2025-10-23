@@ -72,6 +72,29 @@ conda activate your_env_name
 # 2) Enter RDG-YOLO directory
 cd code/RDG-YOLO
 
-# 3) Start predict
+# 3) Download the model of RDG-YOLO
+Please through 'Releases' to get the model for panicle detection
+
+# 4) Start predict
 python detect.py
+```
+
+To run whole grain identification with "EfficientNet-RG":
+
+```bash
+# 1) Activate environment
+conda activate your_env_name
+
+# 2) Enter EfficientNet-RG directory
+cd code/EfficientNet-RG
+
+# 3) Download the model of EfficientNet-RG
+Please through 'Releases' to get the model for panicle detection
+
+# 4) Start Jupyter
+jupyter notebook
+
+```
+
+
 
