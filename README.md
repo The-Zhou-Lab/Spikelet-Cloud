@@ -43,8 +43,8 @@ If you wish to run Panicle-AI from source code, you will need to set up Python o
 
 ```bash
 # 1) Create and activate environment
-conda create -n rgpas python=3.9 -y
-conda activate rgpas
+conda create -n your_env_name python=3.9 -y
+conda activate your_env_name
 
 # 2) Install PyTorch (CUDA or CPU)
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
