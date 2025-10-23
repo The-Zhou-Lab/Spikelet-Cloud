@@ -69,6 +69,9 @@ To run panicle detection with "RGD-YOLO":
 # 1) Activate environment
 conda activate your_env_name
 
-# 2) Enter AdelaiDet directory
-cd code/yolov10
+# 2) Enter RDG-YOLO directory
+cd code/RDG-YOLO
+
+# 3) Start predict
+python detect.py
 
