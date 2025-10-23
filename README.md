@@ -76,7 +76,7 @@ cd code/RDG-YOLO
 Please through Releases to get the model for panicle detection
 
 # 4) Start predict
-python detect.py
+python predict.py
 ```
 
 To run whole grain identification with "EfficientNet-RG":
