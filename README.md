@@ -9,9 +9,9 @@ Jie Zhou<sup>1*</sup>, Min Zhang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 <sup>*</sup>Correspondence for the source code and cloud software: jiezhou@njau.edu.cn; Ji.Zhou@NJAU.edu.cn or JZhou@cemps.ac.cn
 
 ## Please cite the research article
-###1. If you wish to cite the RGPAS platform and its related machine learning or deep learning models, please refer to our manuscript entitled "From phenome to genome: A cloud-based AI platform for integrative rice grain analysis and genetic mapping to empower grain-focused crop improvement" (doi: 10.1016/j.aiia.2026.07.013). 
-###2. If you wish to use the WRGD set, please access the whole set at https://www.ebi.ac.uk/biostudies/studies/S-BSST2194.
-###3. Please be aware we accept no responsibility for any subsequent modifications, adaptations, or derivative versions made by third parties. We are also not responsible for user-uploaded datasets or models in the RGPAS platform, including their content, quality, accuracy, or use. All uploaded datasets will be removed from the server on a daily basis.
+1) If you wish to cite the RGPAS platform and its related machine learning or deep learning models, please refer to our manuscript entitled "From phenome to genome: A cloud-based AI platform for integrative rice grain analysis and genetic mapping to empower grain-focused crop improvement" (doi: 10.1016/j.aiia.2026.07.013). 
+2) If you wish to use the WRGD set, please access the whole set at https://www.ebi.ac.uk/biostudies/studies/S-BSST2194.
+3) Please be aware we accept no responsibility for any subsequent modifications, adaptations, or derivative versions made by third parties. We are also not responsible for user-uploaded datasets or models in the RGPAS platform, including their content, quality, accuracy, or use. All uploaded datasets will be removed from the server on a daily basis.
 
 ## Install Python, Anaconda and Libraries
 If you wish to use the RGPAS platform from source code, you will need to set up Python on your operating system. 
