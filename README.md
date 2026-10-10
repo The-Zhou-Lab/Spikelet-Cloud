@@ -101,5 +101,6 @@ jupyter notebook
 
 ```
 
-
+## License
+Source codes, notebooks, and trained learning model are shared under **the _MIT_ license**. For any commerical use, please contact the corresponding author listed above. 
 
