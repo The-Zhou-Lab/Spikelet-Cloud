@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 ---
-## Prediction
+## Using trained machine learning or deep learning models published with our work (doi: 10.1016/j.aiia.2026.07.013). 
 
 To run panicle detection with "RGD-YOLO":
 
